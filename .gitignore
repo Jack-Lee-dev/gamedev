@@ -1,0 +1,15 @@
+Saved/
+DerivedDataCache/
+Intermediate/
+*.log
+*.tmp
+*.bak
+*.db
+*.opendb
+
+Binaries/
+Build/
+
+*.user
+*.userprefs
+*.sln
